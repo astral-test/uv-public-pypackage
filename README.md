@@ -2,6 +2,12 @@
 
 This is a test package for a public GitHub repository.
 
+## Usage
+
+```bash
+$ uv pip install "uv-public-pypackage@git+https://github.com/astral-test/uv-public-pypackage"
+```
+
 ## Source
 
 The package was generated with `packse`.
