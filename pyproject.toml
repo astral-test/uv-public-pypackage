@@ -12,7 +12,7 @@ only-include = ["src/uv_public_pypackage"]
 name = "uv-public-pypackage"
 version = "0.1.0"
 dependencies = []
-requires-python = ""
-description = ""
+requires-python = ">=3.8"
+description = "A public test package for installation from Git"
 
 [project.optional-dependencies]
